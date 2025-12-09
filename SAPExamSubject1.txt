@@ -1,0 +1,18 @@
+The exam is closed book. You are NOT allowed to use other resources than libraries/SDKs official documentation.
+There is no Internet connection available.
+You CAN'T use your laptop.
+
+The exam is written at the computer. At the end you must upload the solution source code files.
+
+Solutions with compiler errors will be evaluated with 1 out of 10.
+Requirements must be implemented correctly and must deliver correct results. 
+There are no partial points for incorrect/partial implementations.
+
+The exam duration will be 100 (in binary) minutes.
+
+The subject is
+
+To increase the security of your sensitive resources................connection lost
+
+To be continued on February 3, 2023
+

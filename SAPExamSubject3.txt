@@ -1,0 +1,17 @@
+The exam is partial open book. You are allowed to use only laboratory resources (examples, resources from the platform), libraries/SDKs official documentation.
+Other Internet online resources are NOT allowed (stackoverflow, websites, etc)
+You can use ONLY the faculty computer.
+
+The exam is written at the computer. At the end you must upload the solution source code files.
+
+Solutions with compiler errors will be evaluated with 1 out of 10.
+Requirements must be implemented correctly and must deliver correct results. 
+There are no partial points for incorrect/partial implementations.
+
+The exam duration will be 90 minutes.
+
+The subject is
+
+To increase the security of your sensitive resources................connection lost
+
+To be continued on February 3, 2023
